@@ -1,25 +1,25 @@
 # Sistemas operativos y la computación cuántica
  ---
 
-Integrantes:
+**Integrantes:**
 
 - Miguel Ángel Hernández Andrade
 - Lair Abraham Santos Cruz
 
-Universidad Nacional Autónoma de México. Facultad de Ingeniería.
-Asignatura: Sistemas Operativos
-Profesor: Gunnar Eyal Wolf Iszaevich.
-Semestre: 2027-1.
+**Universidad Nacional Autónoma de México. Facultad de Ingeniería. <br>**
+**Asignatura:** Sistemas Operativos - Grupo 7 <br>
+**Profesor:** Gunnar Eyal Wolf Iszaevich. <br>
+**Semestre:** 2027-1. <br>
 
-Fecha de exposición: 19 de octubre de 2026.
+**Fecha de exposición: 19 de octubre de 2026.**
 
 ## Material de la exposición
 
-- [Video]().
-- [Documento escrito]().
+- [Video](https://drive.google.com/file/d/1YwLtVWzJY_ykqXcMxjPit-AERfOOBZu5/view).
+- [Documento escrito](Investigacion_Hernandez_Santos.pdf).
 - [Presentación](Presentacion_Hernandez_Santos.pdf).
 
-# Contenido de la exposición
+## Contenido de la exposición
 * Introducción
 * NISQ
 * Diseño de Sistemas Operativos para procesadores cuánticos
